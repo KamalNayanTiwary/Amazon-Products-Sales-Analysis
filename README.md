@@ -19,7 +19,7 @@ E-commerce platforms like Amazon generate massive amounts of sales data. Teams n
 ---
 
 ## 📂 Dataset Used  
-- Amazon Products Sales Dataset *(confidential – internal use)*  
+- Amazon Products Sales Dataset *(https://github.com/KamalNayanTiwary/Amazon-Products-Sales-Analysis/blob/main/Amazon_Combined_Data.xlsx)*  
 
 ---
 
