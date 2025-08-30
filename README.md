@@ -49,7 +49,7 @@ E-commerce platforms like Amazon generate massive amounts of sales data. Teams n
 
 ## 📊 Dashboard  
 
-![Overview](Snapshort%20of%20the%20Dashboard.png)  
+![Overview](https://github.com/KamalNayanTiwary/Amazon-Products-Sales-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png)  
 
 ---
 
