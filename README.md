@@ -80,7 +80,7 @@ E-commerce platforms like Amazon generate massive amounts of sales data. Teams n
 
 ## 📊 Live Business Insights Dashboard  
 I created an interactive **Power BI dashboard** to analyze and visualize Amazon sales insights.  
-🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/)  
+🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/ac07fe7e-2d52-45c5-9247-5ed773cc6434/234142fdca0a22dab558?experience=power-bi)  
 
 ---
 
