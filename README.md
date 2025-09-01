@@ -7,6 +7,12 @@ The dashboard enables stakeholders to track **KPIs**, analyze performance by **m
 
 ---
 
+## 📊 Live Business Insights Dashboard  
+I created an interactive **Power BI dashboard** to analyze and visualize Amazon sales insights.  
+🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/ac07fe7e-2d52-45c5-9247-5ed773cc6434/234142fdca0a22dab558?experience=power-bi)  
+
+---
+
 ## 🚨 Business Problem  
 E-commerce platforms like Amazon generate massive amounts of sales data. Teams need a **single source of truth** to:  
 - Monitor **Total Sales (₹2.18M YTD)**, **Quarterly Sales (₹811K)**, **Products Sold (27.7K)**, and **Customer Reviews (19.42M)**  
@@ -75,12 +81,6 @@ E-commerce platforms like Amazon generate massive amounts of sales data. Teams n
 - **Seasonality Planning:** Boost inventory and marketing spend in **Sep–Dec** to capitalize on festive momentum.  
 - **Category Growth:** Scale underperforming categories (Toys, Mobile Accessories) through targeted discounts and bundles.  
 - **Customer Engagement:** High reviews suggest opportunities for upselling and loyalty campaigns.  
-
----
-
-## 📊 Live Business Insights Dashboard  
-I created an interactive **Power BI dashboard** to analyze and visualize Amazon sales insights.  
-🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/ac07fe7e-2d52-45c5-9247-5ed773cc6434/234142fdca0a22dab558?experience=power-bi)  
 
 ---
 
