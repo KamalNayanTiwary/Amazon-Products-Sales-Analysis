@@ -1,7 +1,7 @@
 # Amazon-Products-Sales-Analysis-Dashboard
 
 ## 📌 Project Objective  
-To design and develop an **Interactive Amazon Products Sales Analytics Dashboard** in Power BI that delivers real-time insights into sales, revenue trends, product categories, top-performing products, and customer reviews.  
+To design and develop an **Interactive Amazon Products Sales Analytics Dashboard** in **Power BI** that delivers real-time insights into sales, revenue trends, product categories, top-performing products, and customer reviews.  
 
 The dashboard enables stakeholders to track **KPIs**, analyze performance by **month/week/category/product**, and make **data-driven decisions** to optimize product strategy, marketing campaigns, and inventory management.  
 
