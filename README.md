@@ -9,7 +9,7 @@ The dashboard enables stakeholders to track **KPIs**, analyze performance by **m
 
 ## 📊 Live Business Insights Dashboard  
 I created an interactive **Power BI dashboard** to analyze and visualize Amazon sales insights.  
-🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/ac07fe7e-2d52-45c5-9247-5ed773cc6434/234142fdca0a22dab558?experience=power-bi)  
+🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTgzZjM1ZDQtNjcyYS00ODM0LWI3OTYtYTRlNzNiYzNiZjUyIiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)  
 
 ---
 
